@@ -33,7 +33,7 @@ Python 3.x
 Tkinter (included by default in most Python installations)
 
 📸 Example
-
+![Image](https://github.com/user-attachments/assets/cfe425fe-c3b2-4b59-b7e9-0e9af695a9dc)
 
 Input	Output
 madam	✅ It's a palindrome
